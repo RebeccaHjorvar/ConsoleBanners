@@ -1,0 +1,11 @@
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\bin\Debug\net6.0\BannerConsole.deps.json
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\bin\Debug\net6.0\BannerConsole.dll
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\bin\Debug\net6.0\ref\BannerConsole.dll
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\bin\Debug\net6.0\BannerConsole.pdb
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\obj\Debug\net6.0\BannerConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\obj\Debug\net6.0\BannerConsole.AssemblyInfoInputs.cache
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\obj\Debug\net6.0\BannerConsole.AssemblyInfo.cs
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\obj\Debug\net6.0\BannerConsole.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\obj\Debug\net6.0\BannerConsole.dll
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\obj\Debug\net6.0\ref\BannerConsole.dll
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\obj\Debug\net6.0\BannerConsole.pdb

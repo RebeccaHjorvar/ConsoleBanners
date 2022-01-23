@@ -1,0 +1,12 @@
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\bin\Debug\net6.0\ConsoleBanners.deps.json
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\bin\Debug\net6.0\ConsoleBanners.dll
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\bin\Debug\net6.0\ref\ConsoleBanners.dll
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\bin\Debug\net6.0\ConsoleBanners.pdb
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\obj\Debug\net6.0\ConsoleBanners.csproj.AssemblyReference.cache
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\obj\Debug\net6.0\ConsoleBanners.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\obj\Debug\net6.0\ConsoleBanners.AssemblyInfoInputs.cache
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\obj\Debug\net6.0\ConsoleBanners.AssemblyInfo.cs
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\obj\Debug\net6.0\ConsoleBanners.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\obj\Debug\net6.0\ConsoleBanners.dll
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\obj\Debug\net6.0\ref\ConsoleBanners.dll
+C:\Users\Rebecca\Desktop\ConsoleBanner\Banner\obj\Debug\net6.0\ConsoleBanners.pdb
