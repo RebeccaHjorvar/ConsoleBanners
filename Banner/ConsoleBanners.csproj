@@ -4,6 +4,8 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Description>ConsoleBanners is a way to generate a banner for your console application.
+It is written in C# as part of a school assignment.</Description>
   </PropertyGroup>
 
 </Project>
